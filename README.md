@@ -1,5 +1,9 @@
 # ClimateDataAnalyzer
 
+![GitHub stars](https://img.shields.io/github/stars/Ali-Marandi/ClimateDataAnalyzer?style=social)
+![License](https://img.shields.io/github/license/Ali-Marandi/ClimateDataAnalyzer)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
 A professional Python-based tool for analyzing and visualizing historical climate data. This project focuses on identifying long-term trends in global temperature anomalies using data science workflows.
 
 ## Features
